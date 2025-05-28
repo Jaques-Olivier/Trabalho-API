@@ -1,0 +1,6 @@
+C:\Users\Windows 10\Desktop\Trabalho PHP\ChamadosTecnicos\obj\Debug\net9.0\ChamadosTecnicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\Trabalho PHP\ChamadosTecnicos\obj\Debug\net9.0\ChamadosTecnicos.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\Trabalho PHP\ChamadosTecnicos\obj\Debug\net9.0\ChamadosTecnicos.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\Trabalho PHP\ChamadosTecnicos\obj\Debug\net9.0\ChamadosTecnicos.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Trabalho PHP\ChamadosTecnicos\obj\Debug\net9.0\ChamadosTecnicos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows 10\Desktop\Trabalho PHP\ChamadosTecnicos\obj\Debug\net9.0\ChamadosTecnicos.csproj.AssemblyReference.cache
